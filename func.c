@@ -3,5 +3,5 @@
 
 void new_func(void)
 {
-    printf("> new_func from another .c file...\n");
+    printf("> new_func from another .c file\n");
 }
